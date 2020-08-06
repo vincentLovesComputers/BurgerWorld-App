@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169582981797",
+    "firebase_url": "https://burgerworldapp.firebaseio.com",
+    "project_id": "burgerworldapp",
+    "storage_bucket": "burgerworldapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169582981797:android:84aeed99e24cdc12ec934c",
+        "android_client_info": {
+          "package_name": "com.vincent.burderWorld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169582981797-6u5l6b4vn61ct5f4id3spib57fsi7s3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqh1RuesIgAGHoqr_ApeD3NFqXl6pKbiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169582981797-6u5l6b4vn61ct5f4id3spib57fsi7s3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
