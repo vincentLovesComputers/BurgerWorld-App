@@ -1,16 +1,27 @@
-# burger_world
+# burger_world App
 
-A new Flutter project.
+## e-commerce app created in flutter
 
-## Getting Started
+* crud operations done in the app, [burger_world_app_admin](https://github.com/vincentLovesComputers/burger-admin-app) to **create, add, update and delete products**
 
-This project is a starting point for a Flutter application.
+---
+## Products are hosted in firebase database and user information like products added to cart
+---
 
-A few resources to get you started if this is your first Flutter project:
+<img src="images/pic1.png" height = 500>
+<img src="images/pic2.png" height = 500>
+<img src="images/pic3.png" height = 500>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# CRUD  operations done on admin app, [burger_world_app_admin](https://github.com/vincentLovesComputers/burger-admin-app)
+
+<img src="images/adminPic1.png" height = 500>
+<img src="images/adminPic2.png" height = 500>
+<img src="images/adminPic3.png" height = 500>
+
+## Repo for admin app, [burger_world_app_admin](https://github.com/vincentLovesComputers/burger-admin-app)
+
+
+
+
